@@ -3,15 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rprocopi <rprocopi@student.42.fr>          +#+  +:+       +#+        */
+/*   By: rprocopi <rprocopi@student.42lisboa.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/16 13:01:13 by rpr               #+#    #+#             */
-/*   Updated: 2023/10/28 10:34:34 by rprocopi         ###   ########.fr       */
+/*   Updated: 2023/10/30 07:52:12 by rprocopi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-
+ 
 //Transforma string para int
 int	ft_atoi(const char *nptr)
 {
